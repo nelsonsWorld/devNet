@@ -1,6 +1,8 @@
 import json
 import requests
 ##### Script to create a logical loopback interface######
+
+
 router = {
     "host":"ios-xe-mgmt-latest.cisco.com",
     "port":"9443",
